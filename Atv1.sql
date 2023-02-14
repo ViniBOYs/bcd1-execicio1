@@ -1,7 +1,7 @@
+/* Se leu já sabe né? */
+
 create database dieta;	
 use dieta;
-
-
 
 create table user(
 	id bigint not null auto_increment,
